@@ -1,0 +1,10 @@
+const names1 = require('./2-names')
+//console.log(names1)
+const sayhi = require('./1-app')
+// sayhi('sus')
+// sayhi(names1.john)
+// sayhi(names1.pet)
+
+const data=require('./4-alternative')
+// console.log(data)
+require('./5-mind-grenade')  
